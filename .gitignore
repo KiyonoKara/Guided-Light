@@ -30,3 +30,6 @@ xcuserdata/**/*
 
 # VCS
 .git
+
+# Project files
+Guided-Light.xcodeproj/project.xcworkspace
