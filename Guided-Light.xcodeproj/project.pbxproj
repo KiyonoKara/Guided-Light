@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6118C08985C0A09EBAA5B402 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 6118C8BA0FF5D8E5F7146DFC /* README.md */; };
+		6118C0D4339FD36B3161F53A /* LICENSE.md in Sources */ = {isa = PBXBuildFile; fileRef = 6118C1FFCE247FF5B0C3CEBE /* LICENSE.md */; };
 		6118CADDE6B6FAA91BC00898 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 6118CEF044A82C417012777B /* .gitignore */; };
 		F631D6E225268BCF00A0650B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F631D6E125268BCF00A0650B /* AppDelegate.swift */; };
 		F631D6E425268BCF00A0650B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F631D6E325268BCF00A0650B /* SceneDelegate.swift */; };
@@ -36,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6118C1FFCE247FF5B0C3CEBE /* LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
+		6118C8BA0FF5D8E5F7146DFC /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6118CEF044A82C417012777B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = file.gitignore; path = .gitignore; sourceTree = "<group>"; };
 		F631D6DE25268BCF00A0650B /* Light.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Light.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F631D6E125268BCF00A0650B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -86,6 +90,8 @@
 				F631D70225268BD100A0650B /* LightUITests */,
 				F631D6DF25268BCF00A0650B /* Products */,
 				6118CEF044A82C417012777B /* .gitignore */,
+				6118C8BA0FF5D8E5F7146DFC /* README.md */,
+				6118C1FFCE247FF5B0C3CEBE /* LICENSE.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -265,6 +271,8 @@
 				F631D6E625268BCF00A0650B /* ViewController.swift in Sources */,
 				F631D6E225268BCF00A0650B /* AppDelegate.swift in Sources */,
 				F631D6E425268BCF00A0650B /* SceneDelegate.swift in Sources */,
+				6118C08985C0A09EBAA5B402 /* README.md in Sources */,
+				6118C0D4339FD36B3161F53A /* LICENSE.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
