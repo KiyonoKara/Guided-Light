@@ -2,7 +2,7 @@
 //  LightUITests.swift
 //  LightUITests
 //
-//  Created by KaNguy on 10/1/20.
+//  Created by KiyonoKara on 10/1/20.
 //
 
 import XCTest
